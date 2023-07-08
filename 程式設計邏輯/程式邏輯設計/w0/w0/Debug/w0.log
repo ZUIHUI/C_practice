@@ -1,0 +1,5 @@
+﻿  w0 ex1.c
+D:\一成文件\成式螺及設計\w0\w0\w0 ex1.c(8,9): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 '\xe4'
+D:\一成文件\成式螺及設計\w0\w0\w0 ex1.c(9,9): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 '\xe4'
+D:\一成文件\成式螺及設計\w0\w0\w0 ex1.c(10,9): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 '\xe4'
+  w0.vcxproj -> D:\一成文件\成式螺及設計\w0\Debug\w0.exe
